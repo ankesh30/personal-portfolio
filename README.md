@@ -70,9 +70,6 @@ Hosting:   GitHub Pages
 <br>
 <br>
 
-📫 Contact form for easy connection
-<br>
-<br>
 📬 Contact Me
 <br>
 Feel free to reach out for opportunities, collaboration, or just to say hello!
