@@ -21,51 +21,52 @@ on real-world AI/ML applications, and crafting neat user experiences with Java, 
 <br>
 🧠 Interests:
 <br>
-AI-based innovations (like AI Virtual News Anchor and Traffic Safety Automation)
+=>  AI-based innovations (like AI Virtual News Anchor and Traffic Safety Automation).
 <br>
-Java-based desktop apps and backend systems
+=>  Java-based desktop apps and backend systems.
 <br>
-Real-world deployment using GitHub, APIs, and modular design
+=>  Real-world deployment using GitHub, APIs, and modular design.
 <br>
 <br>
 🛠️ Tech Stack
-Frontend: HTML, CSS, JavaScript
 <br>
-Design: Figma (for UI design), Canva (for visuals)
+Frontend:   HTML, CSS, JavaScript.
 <br>
-Version Control: Git & GitHub
+Design:   Figma (for UI design), Canva (for visuals)
 <br>
-Hosting: GitHub Pages
+Version Control:   Git & GitHub
+<br>
+Hosting:   GitHub Pages
 <br>
 <br>
 📁 Repository Structure
 <br>
-📁 assets/          # Images, icons, and media files  
+📁 assets/ ---->         # Images, icons, and media files  
 <br>
-📄 resume.pdf       # My latest resume  
+📄 resume.pdf ---->      # My latest resume  
 <br>
-📄 README.md        # You’re reading it!
+📄 README.md ---->       # You’re reading it!
 <br>
-📄 style.css        # Custom stylesheets  
+📄 style.css ---->       # Custom stylesheets  
 <br>
-📄 script.js        # Scripts and interactivity  
+📄 script.js ---->       # Scripts and interactivity  
 <br>
-📄 index.html       # Main landing page  
+📄 index.html ---->      # Main landing page  
 <br>
 <br>
 ✨ Features
 <br>
-📱 Fully responsive on all devices
+📱 Fully responsive on all devices.
 <br>
-📌 Simple and elegant user interface
+📌 Simple and elegant user interface.
 <br>
-🧾 Resume download option
+🧾 Resume download option.
 <br>
-💼 Project showcases with links
+💼 Project showcases with links.
 <br>
-📫 Easy-to-access contact section
+📫 Easy-to-access contact section.
 <br>
-🎨 Clean design with custom styling
+🎨 Clean design with custom styling.
 <br>
 <br>
 
