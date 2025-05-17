@@ -396,8 +396,8 @@ header.scrolled {
 }
 
 .photo-frame {
-  width: 350px;
-  height: 350px;
+  width: 320px;
+  height: 320px;
   border-radius: 50%;
   overflow: hidden;
   border: 5px solid var(--primary-color);
