@@ -98,7 +98,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
     
     // Animate elements when they come into view
-    const animateOnScroll = function() {
+   const animateOnScroll = function() {
         const elements = document.querySelectorAll('.animate__animated');
         
         elements.forEach(element => {
@@ -136,14 +136,14 @@ document.addEventListener('DOMContentLoaded', function() {
     }
     
     // Add random animation delays to project cards
-    const projectCards = document.querySelectorAll('.project-card');
-    projectCards.forEach((card, index) => {
-        card.style.animationDelay = `${index * 0.2}s`;
-        card.setAttribute('data-animation', 'fadeInUp');
+    const animatedCards = document.querySelectorAll('.project-card, .cert-card');
+    animatedCards.forEach((card, index) => {
+    card.style.animationDelay = `${index * 0.2}s`;
+    card.setAttribute('data-animation', 'fadeInUp');
     });
     
     // Add floating effect to orbs
-    setInterval(() => {
+  setInterval(() => {
         const orbs = document.querySelectorAll('.project-orb, .contact-orb');
         orbs.forEach(orb => {
             const currentX = parseInt(orb.style.left) || 0;
