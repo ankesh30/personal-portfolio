@@ -136,9 +136,9 @@ document.addEventListener('DOMContentLoaded', function() {
     }
     
     // Add random animation delays to project cards
-    const animatedCards = document.querySelectorAll('.project-card, .cert-card');
+    const animatedCards = document.querySelectorAll('.project-card');
     animatedCards.forEach((card, index) => {
-    card.style.animationDelay = `${index * 0.2}s`;
+    card.style.animationDelay = `${index * 0.1}s`;
     card.setAttribute('data-animation', 'fadeInUp');
     });
     

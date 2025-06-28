@@ -404,20 +404,20 @@ header.scrolled {
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
   transition: all 0.5s ease;
   position: relative;
-  background: linear-gradient(135deg, rgba(28, 35, 65, 0.95), rgba(63, 42, 97, 0.9), rgba(40, 44, 52, 0.95), rgba(33, 150, 243, 0.8), rgba(91, 114, 232, 0.85) );
+  background: linear-gradient(135deg, rgba(185, 10, 22, 0.95), rgba(216, 27, 140, 0.877), rgba(238, 238, 23, 0.95), rgba(222, 159, 14, 0.8), rgba(19, 212, 15, 0.85) );
   background-size: 300% 300%;
   animation: gradientBG 4s ease infinite;
 }
 
 .photo-frame img {
-  width: 100%;
-  height: 100%;
-  object-fit:contain;
+  width: 335px;
+  height: 335px;
+  object-fit:cover;
   transition: transform 0.5s ease;
   position: relative;
   z-index: 1;
   border-radius: 50%;
-  transform: scale(0.95);
+  transform: scale(0.93);
 }
 
 .photo-glow {
